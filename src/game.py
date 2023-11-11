@@ -7,8 +7,7 @@ from dataclasses import dataclass
 import pygame
 import numpy as np
 
-from renderer import draw_voxels
-
+from src.renderer import draw_voxels
 
 # Game constants
 GAME_TITLE = "PyVoxelSpace"  # Game title
