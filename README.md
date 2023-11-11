@@ -28,8 +28,8 @@ To get started with the game, follow these installation steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/voxel-space-python-game.git
-   cd voxel-space-python-game
+   git clone https://github.com/booncol/pyvoxelspace.git
+   cd pyvoxelspace
    ```
 2. Install the project dependencies:
 
