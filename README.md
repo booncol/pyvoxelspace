@@ -40,7 +40,7 @@ To get started with the game, follow these installation steps:
 3. Run the game:
 
    ```bash
-   python main.py
+   python3 main.py
    ```
    
 ## Usage
