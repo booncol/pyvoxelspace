@@ -18,8 +18,7 @@ This project utilizes Python 3.11, PyGame for drawing, and the Numba JIT (Just-I
 
 - Recreates the Voxel Space rendering technique in Python.
 - Utilizes PyGame for rendering the game.
-- Speeds up per-pixel calculations using Numba JIT.
-- Simple and nostalgic gameplay inspired by early 3D games.
+- Per-pixel calculations using Numba JIT.
 
 ## Installation
 
